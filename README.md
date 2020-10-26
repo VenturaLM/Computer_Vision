@@ -1,7 +1,8 @@
 # Computer_Vision
 Introduction to image processing and computer vision.
 
-Intall OpenCV:
+Intall OpenCV: https://linuxize.com/post/how-to-install-opencv-on-ubuntu-20-04/
+
 - $ sudo apt update
 - $ sudo apt install libopencv-dev python3-opencv
 - python3 -c "import cv2; print(cv2.__version__)"
