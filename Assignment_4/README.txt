@@ -22,6 +22,3 @@ Execution:
 	- ./i72lumav ../testcall.mp4 -s=12
 	- ./i72lumav ../testcall.mp4 -a=0.5 -s=12
 	- ./i72lumav ../testcall.mp4 -a=0.5 -s=12 -t=0.5
-	
-Tests:
-	The folder named "tests" contains many examples about the execution.
