@@ -4,6 +4,9 @@
 *	Email:	i72lumav@uco.es
 */
 
+IMPORTANT NOTE:
+	THE PROGRAM DOES NOT WORK PROPERLY!
+
 COMPILATION:
 
 	- Open a terminal in the current directory and type the following:
