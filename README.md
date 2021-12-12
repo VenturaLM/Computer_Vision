@@ -23,5 +23,8 @@ Intall OpenCV:
     -D OPENCV_GENERATE_PKGCONFIG=ON \
     -D OPENCV_EXTRA_MODULES_PATH=~/opencv_build/opencv_contrib/modules \
     -D BUILD_EXAMPLES=ON ..
-    $ make -j8 (Modify the -j flag according to your processor. If you do not know the number of cores your processor, you can find it by typing nproc. The compilation may take several minutes or more, depending on your system configuration.)
+    
+Modify the -j flag according to your processor in the next command line. If you do not know the number of cores your processor, you can find it by typing nproc. The compilation may take several minutes or more, depending on your system configuration:
+
+    $ make -j8
     $ sudo make install
