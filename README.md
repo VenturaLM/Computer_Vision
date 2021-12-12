@@ -2,7 +2,9 @@
 Introduction to image processing and computer vision.
 
 Intall OpenCV:
+
     $ sudo apt update
+    
     $ sudo apt install libopencv-dev python3-opencv python3 -c "import cv2; print(cv2.__version__)"
     $ sudo apt install build-essential cmake git pkg-config libgtk-3-dev \
     libavcodec-dev libavformat-dev libswscale-dev libv4l-dev \
